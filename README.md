@@ -56,7 +56,7 @@ Este curso é ideal para desenvolvedores com conhecimento básico de programaç�
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/calculo-para-devs.git
+   git clone https://github.com/ClubeDoJava/CalculoParaDevs.git
 Navegue até o módulo desejado e explore os exemplos de código disponíveis.
 Cada pasta de exemplo possui instruções e comentários detalhados para facilitar o entendimento e a execução.
 🔗 Recursos Adicionais
