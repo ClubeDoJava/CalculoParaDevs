@@ -21,8 +21,8 @@ Com uma base sólida em cálculo, você poderá escrever programas mais eficient
 
 ### Módulo 1: Introdução ao Cálculo
 - **Exemplo 1**: Cálculo de área de um retângulo (Java)
-- **Exemplo 2**: Cálculo de volume de uma esfera (JAVA)
-- **Exemplo 3**: Cálculo de derivada de uma função (JavaScript)
+- **Exemplo 2**: Cálculo de volume de uma esfera (Python)
+- **Exemplo 3**: Cálculo de derivada de uma função (Golang)
 
 ### Módulo 2: Cálculo Diferencial
 - **Exemplo 1**: Otimização de uma função quadrática (Java)
