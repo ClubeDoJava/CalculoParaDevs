@@ -27,22 +27,22 @@ Com uma base sólida em cálculo, você poderá escrever programas mais eficient
 ### Módulo 2: Cálculo Diferencial
 - **Exemplo 1**: Otimização de uma função quadrática (Java)
 - **Exemplo 2**: Cálculo de gradientes em uma função multivariada (Python)
-- **Exemplo 3**: Cálculo de mínimo local em uma função (JavaScript)
+- **Exemplo 3**: Cálculo de mínimo local em uma função (Golang)
 
 ### Módulo 3: Cálculo Integral
 - **Exemplo 1**: Cálculo de integral definida (Java)
 - **Exemplo 2**: Cálculo de área sob uma curva (Python)
-- **Exemplo 3**: Cálculo de volume de um sólido (JavaScript)
+- **Exemplo 3**: Cálculo de volume de um sólido (Golang)
 
 ### Módulo 4: Cálculo Vetorial
 - **Exemplo 1**: Cálculo de vetor unitário (Java)
 - **Exemplo 2**: Cálculo de produto escalar (Python)
-- **Exemplo 3**: Cálculo de norma de um vetor (JavaScript)
+- **Exemplo 3**: Cálculo de norma de um vetor (Golang)
 
 ### Módulo 5: Aplicações em Programação
 - **Exemplo 1**: Otimização de algoritmo de busca (Java)
 - **Exemplo 2**: Análise de complexidade de um algoritmo (Python)
-- **Exemplo 3**: Modelagem matemática em programação (JavaScript)
+- **Exemplo 3**: Modelagem matemática em programação (Golang)
 
 ---
 
