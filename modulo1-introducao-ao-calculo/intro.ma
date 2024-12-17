@@ -1,7 +1,7 @@
 (* Cálculo da Área de um Retângulo *)
 
-largura = 5;
-altura = 10;
+largura = 10;
+altura = 5;
 areaRetangulo = largura * altura;
 Print["Área do Retângulo: ", areaRetangulo];
 
