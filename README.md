@@ -17,17 +17,15 @@ Com uma base sólida em cálculo, você poderá escrever programas mais eficient
 
 ---
 
-## 📋 Estrutura do Curso
+### Módulo 1: [Introdução ao Cálculo](https://github.com/ClubeDoJava/CalculoParaDevs/tree/main/modulo1-introducao-ao-calculo)
+- **Exemplo 1**: [Cálculo de área de um retângulo](https://github.com/ClubeDoJava/CalculoParaDevs/tree/main/modulo1-introducao-ao-calculo/exemplo1-calculo-area-retangulo) (Java)
+- **Exemplo 2**: [Cálculo de volume de uma esfera](https://github.com/ClubeDoJava/CalculoParaDevs/tree/main/modulo1-introducao-ao-calculo/exemplo2-calculo-volume-esfera) (Java)
+- **Exemplo 3**: [Cálculo de derivada de uma função](https://github.com/ClubeDoJava/CalculoParaDevs/tree/main/modulo1-introducao-ao-calculo/Exemplo%203%3A%20C%C3%A1lculo%20de%20derivada%20de%20uma%20fun%C3%A7%C3%A3o) (Golang)
 
-### Módulo 1: Introdução ao Cálculo
-- **Exemplo 1**: Cálculo de área de um retângulo (Java)
-- **Exemplo 2**: Cálculo de volume de uma esfera (Java)
-- **Exemplo 3**: Cálculo de derivada de uma função (Golang)
-
-### Módulo 2: Cálculo Diferencial
-- **Exemplo 1**: Otimização de uma função quadrática (Java)
-- **Exemplo 2**: Cálculo de gradientes em uma função multivariada (Python)
-- **Exemplo 3**: Cálculo de mínimo local em uma função (Golang)
+### Módulo 2: [Cálculo Diferencial](https://github.com/ClubeDoJava/CalculoParaDevs/tree/main/modulo2-C%C3%A1lculo-Diferencial)
+- **Exemplo 1**: [Otimização de uma função quadrática](https://github.com/ClubeDoJava/CalculoParaDevs/tree/main/modulo2-C%C3%A1lculo-Diferencial/Otimiza%C3%A7%C3%A3o%20de%20uma%20fun%C3%A7%C3%A3o%20quadr%C3%A1tica) (Java)
+- **Exemplo 2**: [Cálculo de gradientes em uma função multivariada](https://github.com/ClubeDoJava/CalculoParaDevs/tree/main/modulo2-C%C3%A1lculo-Diferencial/C%C3%A1lculo%20de%20gradientes%20em%20uma%20fun%C3%A7%C3%A3o%20multivariada%20) (Python)
+- **Exemplo 3**: [Cálculo de mínimo local em uma função](https://github.com/ClubeDoJava/CalculoParaDevs/tree/main/modulo2-C%C3%A1lculo-Diferencial/C%C3%A1lculo%20de%20m%C3%ADnimo%20local%20em%20uma%20fun%C3%A7%C3%A3o) (Golang)
 
 ### Módulo 3: Cálculo Integral
 - **Exemplo 1**: Cálculo de integral definida (Java)
