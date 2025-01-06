@@ -12,6 +12,9 @@ public class QuadraticOptimization {
 
     // Função para encontrar o ponto de mínimo
     public static double findMin(double a, double b, double c) {
+        if (a == 0) {
+            throw new ArithmeticException("não é possível dividir por zero");
+        }
         // O ponto de mínimo para uma função quadrática ocorre em x = -b / (2a)
         return -b / (2 * a);
     }
