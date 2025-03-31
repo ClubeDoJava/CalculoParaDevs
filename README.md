@@ -53,13 +53,17 @@ Este curso é ideal para desenvolvedores com conhecimento básico de programaç�
 ## 🚀 Como Usar
 
 1. Clone o repositório:
+2. 
    ```bash
    git clone https://github.com/ClubeDoJava/CalculoParaDevs.git
-Navegue até o módulo desejado e explore os exemplos de código disponíveis.
-Cada pasta de exemplo possui instruções e comentários detalhados para facilitar o entendimento e a execução.
-🔗 Recursos Adicionais
+   
+- Navegue até o módulo desejado e explore os exemplos de código disponíveis.
+- Cada pasta de exemplo possui instruções e comentários detalhados para facilitar o entendimento e a execução.
+
+# 🔗 Recursos Adicionais
+
 Para aprofundar seus conhecimentos, consulte:
 
-📖 Livro-texto de cálculo: Utilize um livro básico de cálculo para acompanhar o curso.
-🧮 Software de cálculo: Ferramentas como Wolfram Alpha e calculadoras gráficas podem auxiliar.
-📁 Repositório de código: Aproveite este repositório como material de apoio e referência.
+- 📖 Livro-texto de cálculo: Utilize um livro básico de cálculo para acompanhar o curso.
+- 🧮 Software de cálculo: Ferramentas como Wolfram Alpha e calculadoras gráficas podem auxiliar.
+- 📁 Repositório de código: Aproveite este repositório como material de apoio e referência.
